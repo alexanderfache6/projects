@@ -1,5 +1,3 @@
-# Projects
-
 [Personal Website](https://alexanderfache6.github.io/pages/index.html)
 
 [US Traffic Accidents and Weather Events Analysis](https://alexanderfache6.github.io/traffic-accident-weather-analysis/)
