@@ -1,3 +1,3 @@
 # Projects
 
-[Personal Website](https://alexanderfache6.github.io/pages/index.html){:target="_blank"}
+<a href="https://alexanderfache6.github.io/pages/index.html" target="_blank">Personal Website</a>
